@@ -32,5 +32,19 @@ print(a)
 a = math.fsum([5.5, 6.3, 2])
 print(a)
 
+print("hello world"[3:-2])
+
+print("hello world"[-1:0:-1])
+
+age = 30
+new_age = age + 10
+print("10년 후 " + str(new_age))
+
+text = str(573)
+rev_text = text[-1::-1]
+print(rev_text)
+
+
+
 
 
