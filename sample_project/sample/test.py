@@ -44,7 +44,7 @@ text = str(573)
 rev_text = text[-1::-1]
 print(rev_text)
 
-
+print(rev_text +" hihi")
 
 
 
